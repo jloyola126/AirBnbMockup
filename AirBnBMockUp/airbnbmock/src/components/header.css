@@ -1,0 +1,26 @@
+.header_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    z-index: 100%;
+    width: 100%;
+}
+.header_container > img{
+    margin-left: 20px;
+    object-fit: contain;
+    height: 100px;
+}
+.header_center > input{
+    border: none;
+    outline: none;
+    width: 250px;
+    padding:10px;    
+}
+.header_right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 15vw;
+    margin-right: 80px;
+}

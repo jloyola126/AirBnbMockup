@@ -1,0 +1,19 @@
+.banner_container{
+    background: url("../assets/bannerairbnb.jpg");
+}
+.banner_info{
+    background-color: black;
+    color: white;
+    padding-top: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    width: 50vh;
+}
+.banner_info > button{
+    background-color: pink;
+    color:white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
