@@ -1,1 +1,5 @@
-    
+.home_section{
+    display: flex;
+    padding:30px;
+    flex-flow: wrap;
+}    

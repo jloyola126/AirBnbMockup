@@ -7,7 +7,6 @@ import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 function Header() {
   return (
-
     <div className='header_container'>
         <img src={AirbnbLogo} alt="logo"/>
         <div>
